@@ -41,7 +41,7 @@ namespace ConsultorioDatasSets
                 this.consultasTableAdapter.Fill(this.consultorioDataSet.consultas, (int) this.idPaciente);
             }
            
-
+// se subio?
         }
 
         private void bindingNavigatorAddNewItem_Click(object sender, EventArgs e)
