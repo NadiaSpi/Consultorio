@@ -1,0 +1,11 @@
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\bin\Debug\ConsultorioDatasSets.exe.config
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\bin\Debug\ConsultorioDatasSets.exe
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\bin\Debug\ConsultorioDatasSets.pdb
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.csproj.AssemblyReference.cache
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.Form1.resources
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.Properties.Resources.resources
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.csproj.GenerateResource.cache
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.csproj.CoreCompileInputs.cache
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.exe
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.pdb
+C:\Users\54911\Desktop\Curso .Net\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.Consultas.resources
